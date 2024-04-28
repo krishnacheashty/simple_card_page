@@ -1,0 +1,11 @@
+.home_ground {
+  background-image: url("../img/photo-1516617442634-75371039cb3a.jpg");
+  background-origin: border-box;
+  background-repeat: no-repeat;
+}
+.middleText {
+  margin-top: 30%;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
